@@ -17,6 +17,7 @@ This repository contains a responsive Weather App and shows the weather forecast
 ## Live Demo
 
 [Online] Available at: https://thomasleavy.github.io/Weather-App/
+                       
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
