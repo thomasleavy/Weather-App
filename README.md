@@ -12,6 +12,7 @@ This repository contains a responsive Weather App and shows the weather forecast
 - **TailwindCSS:** CSS framework for faster styling.
 - **OpenWeatherMap API:** This gives reliable weather info for the user.
 - **Getform.io:** This makes handling forms easier for everyone.
+- **Axios:** A promise-based HTTP client for making requests to the OpenWeatherMap API.
 
 ## Live Demo
 
