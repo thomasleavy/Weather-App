@@ -102,6 +102,9 @@ const WeatherForecast = () => {
                 <div className="text-center bg-[#267491] p-4 rounded-md">
                   <p className="text-gray-300 font-bold text-2xl">{weather.weather[0].description}</p>
                   <p className="text-gray-300 font-bold text-2xl">{Math.round(weather.main.temp)}°C</p>
+                  <p className="text-gray-300 font-bold">Humidity: {weather.main.humidity}%</p>
+                  <p className="text-gray-300 font-bold">Wind Speed: {weather.wind.speed} m/s</p>
+                  <p className="text-gray-300 font-bold">Precipitation: {weather.pop * 100}%</p>
                   <img
                     src={`http://openweathermap.org/img/wn/${weather.weather[0].icon}.png`}
                     alt={weather.weather[0].description}
