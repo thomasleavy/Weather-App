@@ -5,7 +5,7 @@ It uses the React framework and TailwindCSS.
 It is facilitated by the OpenWeatherMap API. 
 A contact form is also used - this is powered by Getform.io.
 
-## LINK
+## Link
 https://thomasleavy.github.io/Weather-App/
 
 ## Updates
